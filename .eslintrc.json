@@ -1,0 +1,50 @@
+{
+    "extends": ["airbnb", "prettier", "prettier/react"],
+    "plugins": ["prettier", "react"],
+    "env": {
+      "browser": true,
+      "node": true
+    },
+    "rules": {
+      "react/jsx-filename-extension": [
+        1,
+        {
+          "extensions": [".js", ".jsx"]
+        }
+      ],
+      "comma-dangle": "off",
+      "react/jsx-uses-vars": "warn",
+      "no-unused-vars": "off",
+      "no-console": "warn",
+      "no-unexpected-multiline": "warn",
+      "react/prop-types": "off",
+      "no-underscore-dangle": "off",
+      "import/imports-first": ["error", "absolute-first"],
+      "import/newline-after-import": "error",
+      "react/prefer-stateless-function": "off",
+      "import/extensions": "off",
+      "linebreak-style": "off",
+      "consistent-return": "off",
+      "array-callback-return": "off",
+      "no-param-reassign": "off",
+      "no-useless-escape": "off",
+      "prefer-destructuring": "off",
+      "no-restricted-syntax": "off",
+      "func-names": "off",
+      "lines-between-class-members": "off",
+      "jsx-a11y/label-has-associated-control": "off",
+      "jsx-a11y/label-has-for": "off",
+      "no-prototype-builtins": "off",
+      "react/display-name": "warn"
+    },
+    "globals": {
+      "window": true,
+      "document": true,
+      "localStorage": true,
+      "FormData": true,
+      "FileReader": true,
+      "Blob": true,
+      "navigator": true
+    },
+    "parser": "babel-eslint"  
+  }
