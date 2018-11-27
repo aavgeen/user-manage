@@ -54,19 +54,21 @@ $ npm run lintfix
 
 </br>
 <p align="center">
-  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/login.jpg" width="650"/>
+  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/login.jpg" width="800"/>
 </p>
 <p align="center">
-  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/create_user.jpg" width="650"/>
+  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/create_user.jpg" width="800"/>
 </p>
 <p align="center">
-  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/userlist.jpg" width="650"/>
+  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/userlist.jpg" width="800"/>
 </p>
 <p align="center">
   <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/login_mob.jpg" width="350"/>
-  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/create_user_mob.jpg" width="350"/>
-  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/userlist_mob.jpg" width="350"/>
 </p>
+<p align="center">
+  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/create_user_mob.jpg" width="350"/>
+</p>
+
 
 ### Tech
 
