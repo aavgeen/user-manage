@@ -42,19 +42,35 @@ $ npm run lintfix
 ```
 
 ### Stories/Features
- Here are some basic features that exist in most user management systems:
- I can see a list of existing users
- I can see a list of existing groups
- I can create users
- I can create groups
- I can assign users to a group they aren’t already part of
- I can remove users from a group
- I can delete groups when they no longer have members
- I can delete users
+
+* I can see a list of existing users
+* I can see a list of existing groups
+* I can create users
+* I can create groups
+* I can assign users to a group they aren’t already part of
+* I can remove users from a group
+* I can delete groups when they no longer have members
+* I can delete users
+
+</br>
+<p align="center">
+  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/login.jpg" width="650"/>
+</p>
+<p align="center">
+  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/create_user.jpg" width="650"/>
+</p>
+<p align="center">
+  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/userlist.jpg" width="650"/>
+</p>
+<p align="center">
+  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/login_mob.jpg" width="350"/>
+  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/create_user_mob.jpg" width="350"/>
+  <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/userlist_mob.jpg" width="350"/>
+</p>
 
 ### Tech
 
-Dillinger uses a number of open source projects to work properly:
+User Manage uses a number of open source projects:
 
 * [Materialize_css] 
 * [Reactjs] 
@@ -80,10 +96,7 @@ Dillinger uses a number of open source projects to work properly:
  - Detail of users and groups
  - Validation for users when creating groups.
 
-License
-----
 
-MIT
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
