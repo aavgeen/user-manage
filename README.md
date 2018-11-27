@@ -56,15 +56,22 @@ $ npm run lintfix
 <p align="center">
   <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/login.jpg" width="800"/>
 </p>
+</br>
+</br>
 <p align="center">
   <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/create_user.jpg" width="800"/>
 </p>
+</br>
+</br>
 <p align="center">
   <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/userlist.jpg" width="800"/>
 </p>
+</br>
+</br>
 <p align="center">
   <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/login_mob.jpg" width="350"/>
 </p>
+</br>
 <p align="center">
   <img src="https://github.com/aavgeen1/user-manage/blob/master/screenshots/create_user_mob.jpg" width="350"/>
 </p>
